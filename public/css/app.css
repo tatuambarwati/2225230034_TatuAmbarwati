@@ -1,0 +1,9 @@
+body    {
+    background: rgb(211, 15, 32);
+    background: linear-gradient(90deg, rgb(117, 29, 40) 0%, rgb(161, 228, 107) 95%);
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    color: rgb(241, 0, 0);
+    height: 100vh;
+    margin: 0;
+}
